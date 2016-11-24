@@ -18,5 +18,10 @@
         {
             currentScore = "Fifteen - Love";
         }
+
+        public void PlayerTwoScores()
+        {
+            currentScore = "";
+        }
     }
 }
