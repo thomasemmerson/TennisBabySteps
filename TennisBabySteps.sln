@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisBabySteps", "TennisBabySteps\TennisBabySteps.csproj", "{257D2C55-32F6-47E4-9C16-B57279C90DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisBabyStepsTest", "TennisBabyStepsTest\TennisBabyStepsTest.csproj", "{860CEEE7-EA8E-4FBF-B7AF-7DD69BBDF912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257D2C55-32F6-47E4-9C16-B57279C90DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257D2C55-32F6-47E4-9C16-B57279C90DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257D2C55-32F6-47E4-9C16-B57279C90DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257D2C55-32F6-47E4-9C16-B57279C90DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860CEEE7-EA8E-4FBF-B7AF-7DD69BBDF912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860CEEE7-EA8E-4FBF-B7AF-7DD69BBDF912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860CEEE7-EA8E-4FBF-B7AF-7DD69BBDF912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860CEEE7-EA8E-4FBF-B7AF-7DD69BBDF912}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
