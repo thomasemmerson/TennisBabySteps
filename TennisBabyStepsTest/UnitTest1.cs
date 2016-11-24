@@ -1,11 +1,10 @@
-﻿using System;
-using TennisBabySteps;
+﻿using TennisBabySteps;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TennisBabyStepsTest
 {
     [TestClass]
-    public class UnitTest1
+    public class TennisBabyStepsTests
     {
         [TestMethod]
         public void NewGameScoreShouldBeLove_Love()

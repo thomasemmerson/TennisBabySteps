@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TennisBabySteps
+﻿namespace TennisBabySteps
 {
     public class Game
     {
+        public void NewGame()
+        {
+
+        }
+
         public string GetScore()
         {
             return "Love - Love";
