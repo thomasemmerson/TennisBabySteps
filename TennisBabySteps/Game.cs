@@ -2,14 +2,21 @@
 {
     public class Game
     {
+        private string currentScore;
+
         public void NewGame()
         {
-
+            currentScore = "Love - Love";
         }
 
         public string GetScore()
         {
-            return "Love - Love";
+            return currentScore;
+        }
+
+        public void PlayerOneScores()
+        {
+            currentScore = "Fifteen - Love";
         }
     }
 }

@@ -10,6 +10,7 @@ namespace TennisBabyStepsTest
         public void NewGameScoreShouldBeLove_Love()
         {
             var game = new Game();
+            game.NewGame();
             Assert.AreEqual(game.GetScore(), "Love - Love");
         }
 
@@ -17,6 +18,7 @@ namespace TennisBabyStepsTest
         public void PlayerOneScoresReturnsFifteenLove()
         {
             var game = new Game();
+            game.NewGame();
             game.PlayerOneScores();
             Assert.AreEqual(game.GetScore(), "Fifteen - Love");
         }
