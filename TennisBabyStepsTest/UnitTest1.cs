@@ -31,5 +31,15 @@ namespace TennisBabyStepsTest
             game.PlayerTwoScores();
             Assert.AreEqual(game.GetScore(), "Love - Fifteen");
         }
+
+        [TestMethod]
+        public void PlayerOneScoresThenPlayerTwoScoresReturnsFifteenAll()
+        {
+            var game = new Game();
+            game.NewGame();
+            game.PlayerOneScores();
+            game.PlayerTwoScores();
+            Assert.AreEqual(game.GetScore(), "Fifteen All");
+        }
     }
 }

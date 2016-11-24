@@ -21,7 +21,7 @@
 
         public void PlayerTwoScores()
         {
-            currentScore = "";
+            currentScore = "Love - Fifteen";
         }
     }
 }
