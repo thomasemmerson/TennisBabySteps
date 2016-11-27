@@ -1,0 +1,5 @@
+C:\Code\TennisBabySteps\TennisBabySteps\bin\Debug\TennisBabySteps.dll
+C:\Code\TennisBabySteps\TennisBabySteps\bin\Debug\TennisBabySteps.pdb
+C:\Code\TennisBabySteps\TennisBabySteps\obj\Debug\TennisBabySteps.csprojResolveAssemblyReference.cache
+C:\Code\TennisBabySteps\TennisBabySteps\obj\Debug\TennisBabySteps.dll
+C:\Code\TennisBabySteps\TennisBabySteps\obj\Debug\TennisBabySteps.pdb

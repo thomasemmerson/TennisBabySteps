@@ -1,0 +1,8 @@
+C:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabyStepsTest.dll
+C:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabyStepsTest.pdb
+C:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabySteps.dll
+C:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabySteps.pdb
+C:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.csprojResolveAssemblyReference.cache
+C:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.dll
+C:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.pdb

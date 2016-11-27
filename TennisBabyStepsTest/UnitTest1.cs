@@ -7,7 +7,7 @@ namespace TennisBabyStepsTest
     public class TennisBabyStepsTests
     {
         [TestMethod]
-        public void NewGameScoreShouldBeLove_Love()
+        public void New_Game_Score_Should_Be_Love_Love()
         {
             var game = new Game();
             game.NewGame();
@@ -15,7 +15,7 @@ namespace TennisBabyStepsTest
         }
 
         [TestMethod]
-        public void PlayerOneScoresReturnsFifteenLove()
+        public void Player_One_Scores_First_Then_Game_Score_Should_Be_Fifteen_Love()
         {
             var game = new Game();
             game.NewGame();
@@ -24,7 +24,7 @@ namespace TennisBabyStepsTest
         }
 
         [TestMethod]
-        public void PlayerTwoScoresReturnsLoveFifteen()
+        public void Player_Two_Scores_First_Then_Game_Score_Should_Be_Love_Fifteen()
         {
             var game = new Game();
             game.NewGame();
@@ -33,12 +33,22 @@ namespace TennisBabyStepsTest
         }
 
         [TestMethod]
-        public void PlayerOneScoresThenPlayerTwoScoresReturnsFifteenAll()
+        public void Player_One_Scores_First_Then_Player_Two_Scores_Then_Game_Score_Should_Be_Fifteen_All()
         {
             var game = new Game();
             game.NewGame();
             game.PlayerOneScores();
             game.PlayerTwoScores();
+            Assert.AreEqual(game.GetScore(), "Fifteen All");
+        }
+
+        [TestMethod]
+        public void Player_Two_Scores_First_Then_Player_One_Scores_Then_Game_Score_Should_Be_Fifteen_All()
+        {
+            var game = new Game();
+            game.NewGame();
+            game.PlayerTwoScores();
+            game.PlayerOneScores();
             Assert.AreEqual(game.GetScore(), "Fifteen All");
         }
     }
