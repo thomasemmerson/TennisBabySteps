@@ -6,3 +6,12 @@ C:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabySteps.pdb
 C:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.csprojResolveAssemblyReference.cache
 C:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.dll
 C:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.pdb
+D:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabyStepsTest.dll
+D:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabyStepsTest.pdb
+D:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabySteps.dll
+D:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\TennisBabySteps.pdb
+D:\Code\TennisBabySteps\TennisBabyStepsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.csprojResolveAssemblyReference.cache
+D:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.dll
+D:\Code\TennisBabySteps\TennisBabyStepsTest\obj\Debug\TennisBabyStepsTest.pdb

@@ -8,7 +8,7 @@
 
         private int playerTwoScore = 0;
 
-        private string[] scores = new string[] {
+        private readonly string[] scores = new string[] {
             "Love",
             "Fifteen",
             "Thirty",
@@ -24,14 +24,7 @@
 
         public string GetScore()
         {
-            if (scores[playerOneScore] == scores[playerTwoScore])
-            {
-                currentScore = scores[playerOneScore] + " All";
-            }
-            else
-            {
-                currentScore = scores[playerOneScore] + " - " + scores[playerTwoScore];
-            }
+            currentScore = scores[playerOneScore] + " - " + scores[playerTwoScore];
             return currentScore;
         }
 

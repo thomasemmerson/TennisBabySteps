@@ -39,7 +39,7 @@ namespace TennisBabyStepsTest
             game.NewGame();
             game.PlayerOneScores();
             game.PlayerTwoScores();
-            Assert.AreEqual(game.GetScore(), "Fifteen All");
+            Assert.AreEqual(game.GetScore(), "Fifteen - Fifteen");
         }
 
         [TestMethod]
@@ -49,7 +49,7 @@ namespace TennisBabyStepsTest
             game.NewGame();
             game.PlayerTwoScores();
             game.PlayerOneScores();
-            Assert.AreEqual(game.GetScore(), "Fifteen All");
+            Assert.AreEqual(game.GetScore(), "Fifteen - Fifteen");
         }
     }
 }
